@@ -1,6 +1,8 @@
 # Restaurant-Website using Atri-Framework
 
-     I've sucessfully cloned the [Restaurant Website](https://atri-apps.github.io/restaurant_website/) using Atri-Framework without coding. It was great experience to work with. 
+     I've sucessfully cloned the 
+     [Restaurant Website](https://atri-apps.github.io/restaurant_website/) 
+     using Atri-Framework without coding. It was great experience to work with. 
 
 ## Atri Framework
    Atri framework is a full-stack web development framework to build Progressive Web Apps.
